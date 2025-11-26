@@ -18,3 +18,18 @@ div{
     padding: 6px;
     border-radius: 10px;
 }
+#japan{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 150px;
+    background-color: white;
+    border-radius: 0px;
+    margin: 20px;
+}#japanc{
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    background-color: rgb(158, 28, 28);
+}
